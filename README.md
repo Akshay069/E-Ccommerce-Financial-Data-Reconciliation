@@ -1,7 +1,8 @@
 <h1 align="center"> Title - E-Ccommerce Financial Data Reconciliation
-
+  
+![eCommerce--Animated-GIF](https://user-images.githubusercontent.com/107321295/214625991-bf00795a-7425-45c9-990e-de782167260a.gif)
+  
 ![image](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 
 
 ## Steps Followed
