@@ -1,4 +1,4 @@
-<h1 align="center"> Title - E-Ccommerce Financial Data Reconciliation
+<h1 align="center"> Title - E-Commerce Financial Data Reconciliation
   
 ![image](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
